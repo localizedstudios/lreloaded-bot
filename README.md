@@ -1,2 +1,2 @@
-# lreloaded-bot
-A Peggle Bot that Mimics Localized Top 1 Player
+# Features
+Idk What To Write. Just download our product
